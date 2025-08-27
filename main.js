@@ -8,6 +8,7 @@
 
 // console.log(hamburger.name); // ? Double Cheese Burger
 // console.log(secondBurger.name); // ? Double Cheese Burger
+// Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice? // ? 1 solo ogetto
 
 // ! Snack 2
 // console.log("Snack 2");
