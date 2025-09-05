@@ -69,6 +69,6 @@
 //   isOpen: false,
 // };
 
-// Qual è il metodo migliore per clonare l’oggetto chef, e perché? // ?  Il metodo migliore è quello per references perche cosi riesco a tener traccia anche della funzione
+// Qual è il metodo migliore per clonare l’oggetto chef, e perché? // ?  Il metodo migliore è quello per shallow copy (...) perche cosi riesco a tener traccia anche della funzione
 
 // Qual è il metodo migliore per clonare l’oggetto restaurant, e perché? // ? Il metodo migliore è quello structureClone() perche riesco a mantenere anche gli ogetti complessi come quelli di tipo Date
